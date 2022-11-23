@@ -1,2 +1,2 @@
-[webserver]
+[tomcat]
 13.126.25.69 ansible_user=ubuntu
